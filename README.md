@@ -16,4 +16,9 @@ CSS<br/>
 javascript<br/>
 REACT<br/>
 
+https://www.javascript.com/ <br/>
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ <br/>
+https://reactjs.org/
+
+
 ![color-picker](https://user-images.githubusercontent.com/44300521/49700929-53e47900-fbb3-11e8-808b-ec50f849ced0.gif)
